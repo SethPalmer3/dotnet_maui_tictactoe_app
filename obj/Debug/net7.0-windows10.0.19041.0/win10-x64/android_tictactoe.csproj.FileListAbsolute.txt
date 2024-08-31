@@ -541,3 +541,4 @@ C:\Users\Redux\android_tictactoe\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\
 C:\Users\Redux\android_tictactoe\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.winmd
 C:\Users\Redux\android_tictactoe\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.winmd
 C:\Users\Redux\android_tictactoe\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Xaml.Controls.pri
+C:\Users\Redux\android_tictactoe\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\android_tictactoe.sourcelink.json

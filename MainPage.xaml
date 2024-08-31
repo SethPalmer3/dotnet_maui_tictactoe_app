@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="android_tictactoe.MainPage">
 
-    <Grid RowDefinitions="*, *, *" ColumnDefinitions="*, *, *">
+    <Grid RowDefinitions="*, *, *" ColumnDefinitions="*, *, *" x:Name="TicTacToeBoard">
 
         <Button Grid.Row="0" Grid.Column="0" Text="" Clicked="OnCounterClicked" />
         <Button Grid.Row="0" Grid.Column="1" Text="" Clicked="OnCounterClicked" />
